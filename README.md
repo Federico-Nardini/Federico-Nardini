@@ -6,7 +6,7 @@
 
 - 📫 How to reach me:</br>
   📧 Email: fnardini1996@gmail.com</br>
-  📷 Instagram: feather.ico
+  📷 Instagram: feather.ico</br>
   ✉️ Telegram: @Mekbeth
 
 <!---
