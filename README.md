@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in cycling, videogaming and everything tech related
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ReactJS
 
 - 📫 How to reach me:</br>
   📧 Email: fnardini1996@gmail.com</br>
